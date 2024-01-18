@@ -1,5 +1,5 @@
 
-Show me a better crypto tracker in terms of featues, functiopnalities and ui ux, I'll wait 😎 (Jk)
+Show me a better crypto tracker in terms of featues, functionalities and ui ux, I'll wait 😎
 
 A crypto tracker web app built using => 
 ## TECH STACK
@@ -17,7 +17,7 @@ with the home page and coin detail page.
 - search filter to search for coins
 - sorting from low to high and high to low based on current price 
 - added a favourites section for the user to bookmark coins and they get added in a list with state management using redux, added both star marking the coins as well as even removing it.
-- added currency  switching between usd and inr
+- added currency switching between usd and inr
 -  the coin detail page with additional details about the coin, such as chart, market-cap, volume and other stats
 - reccomended coins section at the coin detail page 
 - tailwind for styling
@@ -76,9 +76,6 @@ Coin Deatil Page =>
 
 
 DO STAR THE REPO 🌟
-
-
-
 
 
 
